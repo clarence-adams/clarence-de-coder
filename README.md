@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @clarence-de-coder
 
-
-## [Personal Portfolio](https://dreamy-shirley-ec323d.netlify.app/)
+## [Personal Portfolio](https://clarence-adams-portfolio.herokuapp.com/)
 
 <!---
 clarence-de-coder/clarence-de-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
